@@ -1,0 +1,7 @@
+my_list = [10, 20, 30, 40, 50]
+print("Original List:", my_list)
+
+
+print("First element:", my_list[0])
+print("Third element:", my_list[2])
+print("Last element:", my_list[-1])
